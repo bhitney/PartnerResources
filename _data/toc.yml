@@ -310,8 +310,8 @@
               url: "skilling/modern-analytics-academy/vignettes"
               tag: vignettes
         - title: Hands-on
-            url: "skilling/modern-analytics-academy/hands-on"
-            tag: maa hands on
+          url: "skilling/modern-analytics-academy/hands-on"
+          tag: maa hands on
     - title: "Windows 365 Academy"
       url: "skilling/windows-365-academy"
       tag: w365academy
