@@ -2,7 +2,7 @@
 layout: page
 title: Modern Analytics Academy - Readiness Resources
 description: Resources for skilling in the analytics solution area.
-permalink: /skilling/modern-analytics-academy/readiness
+permalink: /skilling/modern-analytics-academy/resources
 updated: 2023-07-17
 showbreadcrumb: true
 tags:
@@ -21,13 +21,13 @@ Readiness resources for analytics related workloads can be found here.
 ## Resources
 
 {% include resources.md 
-    includetags="data, analytics, and ai" 
+    includetags="data, analytics, and ai|modern analytics academy" 
     includemethod="all" 
     showtags="false" 
     showdate="true" 
     visualstyle="normal" 
     showdescription="true" 
-    sortfield="updated" 
-    sortorder="desc" 
+    sortfield="title" 
+    sortorder="asc" 
     showdate="true" 
 %}

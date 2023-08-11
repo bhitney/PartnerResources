@@ -307,8 +307,8 @@
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy
       children:
-        - title: Readiness Resources
-          url: "skilling/modern-analytics-academy/readiness"
+        - title: Resources
+          url: "skilling/modern-analytics-academy/resources"
           tag: maa readiness
         - title: Modules
           url: "skilling/modern-analytics-academy/modules"
