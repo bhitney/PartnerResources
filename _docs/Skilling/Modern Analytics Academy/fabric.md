@@ -31,5 +31,6 @@ We've organized the content into a few key modules:
 * [Synapse Data Science](/skilling/modern-analytics-academy/fabric/datascience) - Data preparation and cleansing, code generation, and machine learning
 * [Real Time Analytics](/skilling/modern-analytics-academy/fabric/realtimeanalytics) - Real time data processing, built-in analytics and visualization
 * [Power BI](/skilling/modern-analytics-academy/fabric/powerbi) - Data visualization with Power BI
+* [Data Activator](/skilling/modern-analytics-academy/fabric/observability) - Data Activator and observability with Fabric
 
 

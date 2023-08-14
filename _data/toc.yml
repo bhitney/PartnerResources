@@ -338,6 +338,9 @@
             - title: Power BI
               url: "skilling/modern-analytics-academy/fabric/powerbi"
               tag: maa fabric powerbi
+            - title: Observability
+              url: "skilling/modern-analytics-academy/fabric/observability"
+              tag: maa fabric observability
         - title: Synapse
           url: "skilling/modern-analytics-academy/synapse"
           tag: maa synapse      
