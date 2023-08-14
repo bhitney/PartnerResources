@@ -5,6 +5,7 @@ description: Resources for skilling in the analytics solution area.
 permalink: /skilling/modern-analytics-academy/resources
 updated: 2023-08-11
 showbreadcrumb: true
+hiderightnav: true
 tags:
 - azure
 - data, analytics, and ai
