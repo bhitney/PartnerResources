@@ -338,19 +338,19 @@
             - title: Power BI
               url: "skilling/modern-analytics-academy/fabric/powerbi"
               tag: maa fabric powerbi
-        - title: Modules
-          url: "skilling/modern-analytics-academy/modules"
-          tag: maa modules      
+        - title: Synapse
+          url: "skilling/modern-analytics-academy/synapse"
+          tag: maa synapse      
           children:
             - title: Core Sessions
               url: "skilling/modern-analytics-academy/core-sessions"
               tag: maa core
-            - title: Vignettes
-              url: "skilling/modern-analytics-academy/vignettes"
-              tag: vignettes
         - title: Hands-on
           url: "skilling/modern-analytics-academy/hands-on"
           tag: maa hands on
+        - title: Vignettes
+              url: "skilling/modern-analytics-academy/vignettes"
+              tag: vignettes
     - title: "Windows 365 Academy"
       url: "skilling/windows-365-academy"
       tag: w365academy

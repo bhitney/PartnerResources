@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Modern Analytics Academy - Modules
+title: Modern Analytics Academy - Synapse
 description: Workshop focused on Modern Analytics
-permalink: /skilling/modern-analytics-academy/modules
+permalink: /skilling/modern-analytics-academy/synapse
 redirect_from:
   - /skilling/modern-analytics-academy/
   - /azure/data-analytics-ai/modern-analytics-academy
