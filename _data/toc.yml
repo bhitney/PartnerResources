@@ -302,15 +302,53 @@
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy
       children:
-        - title: Core Sessions
-          url: "skilling/modern-analytics-academy/core-sessions"
-          tag: maa core
+        - title: Resources
+          url: "skilling/modern-analytics-academy/resources"
+          tag: maa readiness
+        - title: Fabric
+          url: "skilling/modern-analytics-academy/fabric"
+          tag: maa fabric      
+          children:
+            - title: Overview
+              url: "skilling/modern-analytics-academy/fabric/overview"
+              tag: maa fabric overview
+            - title: Patterns & Practices
+              url: "skilling/modern-analytics-academy/fabric/patterns"
+              tag: maa fabric patterns
+            - title: Data Integration
+              url: "skilling/modern-analytics-academy/fabric/dataintegration"
+              tag: maa fabric dataintegration
+            - title: Data Engineering
+              url: "skilling/modern-analytics-academy/fabric/dataengineering"
+              tag: maa fabric dataengineering
+            - title: Data Warehousing
+              url: "skilling/modern-analytics-academy/fabric/warehousing"
+              tag: maa fabric warehousing
+            - title: Synapse Data Science
+              url: "skilling/modern-analytics-academy/fabric/datascience"
+              tag: maa fabric datascience
+            - title: Real Time Analytics
+              url: "skilling/modern-analytics-academy/fabric/realtimeanalytics"
+              tag: maa fabric realtimeanalytics
+            - title: Power BI
+              url: "skilling/modern-analytics-academy/fabric/powerbi"
+              tag: maa fabric powerbi
+            - title: Observability
+              url: "skilling/modern-analytics-academy/fabric/observability"
+              tag: maa fabric observability
+        - title: Synapse
+          url: "skilling/modern-analytics-academy/synapse"
+          tag: maa synapse      
+          children:
+            - title: Core Sessions
+              url: "skilling/modern-analytics-academy/core-sessions"
+              tag: maa core
         - title: Hands-on
           url: "skilling/modern-analytics-academy/hands-on"
           tag: maa hands on
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
-    - title: "Partner Showcase"
-      url: "skilling/microsoft-partner-showcase"
-      tag: partnershowcase
+- title: "Partner Showcase"
+  url: "skilling/microsoft-partner-showcase"
+  tag: partnershowcase
