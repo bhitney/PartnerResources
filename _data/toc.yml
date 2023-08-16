@@ -341,7 +341,7 @@
           tag: maa synapse      
           children:
             - title: Core Sessions
-              url: "skilling/modern-analytics-academy/core-sessions"
+              url: "skilling/modern-analytics-academy/synapse/core-sessions"
               tag: maa core
         - title: Hands-on
           url: "skilling/modern-analytics-academy/hands-on"
