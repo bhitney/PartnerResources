@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modern Analytics Academy - Synapse
-description: Workshop focused on Modern Analytics
+description: Workshop focused on Modern Analytics with Azure Synapse Analytics
 permalink: /skilling/modern-analytics-academy/synapse
 redirect_from:
   - /skilling/modern-analytics-academy/

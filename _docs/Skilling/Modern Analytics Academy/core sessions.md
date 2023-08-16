@@ -2,7 +2,7 @@
 layout: page
 title: Modern Analytics Academy - Core Sessions
 description: Workshop focused on Modern Analytics
-permalink: /skilling/modern-analytics-academy/core-sessions
+permalink: /skilling/modern-analytics-academy/synapse/core-sessions
 updated: 2022-08-31
 showbreadcrumb: true
 tags:
