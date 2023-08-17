@@ -2,7 +2,7 @@
 layout: page
 title: Marketing
 description: Resources for Dynamics 365 Marketing
-updated: 2021-12-01
+updated: 2023-08-17
 permalink: /skilling/d365-academy/business-applications/customer-engagement/marketing
 tags:
 - learning plan
@@ -14,33 +14,26 @@ tags:
 
 Dynamics 365 Marketing is a Microsoft business application providing marketing-automation that helps turn prospects into business relationships.  The app is easy to use, works seamlessly with Dynamics 365 Sales, and has built-in business intelligence.
 
-Below you will find content to assist in upskilling on Dynamics 365 Marketing. Content is broken down as follows:
+**On September 1, 2023, Dynamics 365 Marketing and Dynamics 365 Customer Insights will be sold together under a single product SKU called Dynamics 365 Customer Insights. The individual applications will be renamed Dynamics 365 Customer Insights - Journeys and Dynamics 365 Customer Insights - Data, respectively. For more information, see Dynamics 365 Customer Insights FAQs.**
 
-* Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
-* Certifications: relevant Microsoft exams or certifications
-* Community resources: user groups, events, blogs
-
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
-* Navigation Tip - to open each link, right-click on the URL | select Open in new tab
-
+**Learning Plan content below will be updated in September to reflect this update.**
 
 ## Fundamentals
 
-* [Learn How to Pitch Dynamics 365 Marketing](https://dynamicspartners.transform.microsoft.com/products/dynamics-365-marketing?tab=go-to-market) (MPN Portal) (2 Minutes)
-* [Bookmark Dynamics 365 Marketing Forum](https://community.dynamics.com/365/marketing/f/dynamics-365-for-marketing-forum) (Self-Paced) (1 Minute)
-* [Bookmark Dynamics 365 Marketing Product Roadmap](https://dynamics.microsoft.com/en-us/roadmap/overview/) (Microsoft Docs) (2 Minutes)
-* [Create a Dynamics 365 Marketing Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/) (2 Minutes)
-* [Explore Dynamics 365 Marketing Capabilities](https://dynamics.microsoft.com/en-us/marketing/capabilities/) (5 Minutes)
-* [Introduction to Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-marketing/) (Microsoft Learn) (41 Minutes)
-* [Learn Insights glossary of terms](https://docs.microsoft.com/en-us/dynamics365/marketing/insights-glossary) (11 Minutes)
-* [Watch the Dynamics 3665 Marketing video playlist on YouTube](https://www.youtube.com/playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR) (1 Hour)
-* [Download Dynamics 365 Marketing Partner Sales Sales Playbook](https://aka.ms/d365marketing/salestools) (Self-Paced) (5 Minutes)
-* [Watch the Dynamics 365 Marketing in a Day workshop](https://aka.ms/d365marketing/miad) (Self-Paced) (2 hours, 45 Minutes)
-* [Dynamics 365 Marketing One Stop Document] (Aka.ms/ocp/d365marketing)
+* <a href="https://dynamicspartners.transform.microsoft.com/products/dynamics-365-marketing?tab=go-to-market" target="_blank">Learn How to Pitch Dynamics 365 Marketing </a> (Partner Portal) (1 minute)
+* <a href="https://community.dynamics.com/forums/thread/?partialUrl=marketing" target="_blank">Bookmark the Dynamics 365 Marketing Forum </a> (Self-Paced) (1 minute)
+* <a href="https://releaseplans.microsoft.com/en-US/?app=Marketing" target="_blank">Bookmark the Dynamics 365 Marketing Product Roadmap </a> (Release Plan) (1 minute)
+* <a href="https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/" target="_blank">Create a Dynamics 365 Marketing Trail </a> (1 minute)
+* <a href="https://dynamics.microsoft.com/en-us/marketing/capabilities/" target="_blank">Explore the Dynamics 365 Marketing Capabilities </a> (1 minute)
+* <a href="https://docs.microsoft.com/en-us/dynamics365/marketing/insights-glossary" target="_blank">Understand the Insights glossary of terms </a> (10 minutes)
+* <a href="https://www.youtube.com/playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR" target="_blank">Watch the Dynamics 365 Marketing video playlist on YouTube </a> (Self-Paced)
+* <a href="https://https://aka.ms/d365marketing/salestools" target="_blank">Download the Dynamics 365 Marketing Partner Sales Sales Playbook </a> (download @ aka.ms/d365marketing/salestools)
+* <a href="https://aka.ms/d365marketing/miad" target="_blank">Attend the Dynamics 365 Marketing in a Day Presales workshop </a> (On-Demand)
+* <a href="https://Aka.ms/ocp/d365marketing" target="_blank">Bookmark the Dynamics 365 Marketing One Stop, All-Inclusive Document </a> (Self-Paced)
 
 ## Associate
 
+* <a href="https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-marketing/" target="_blank">Learn the Fundamentals of Dynamics 365 Marketing </a> (Microsoft Learn) (1 minute)
 * [Work with core features in Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/paths/work-core-features-marketing/) (Microsoft Learn) (6 Hours)
 * [Review the Dynamics 365 Marketing Administrator Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/admin-guide) (Microsoft Docs) (2 Minutes)
 * [Review the Dynamics 365 Marketing Real Time Marketing User Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-user-guide) (2 minutes)
